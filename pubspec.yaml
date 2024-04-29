@@ -1,0 +1,12 @@
+name: jscompier
+description: Dart to JavaScript compiler adding esm import and node compatible javascript code generation.
+version: 1.0.0
+
+environment:
+  sdk: '>=3.3.0'
+
+dependencies:
+
+dev_dependencies:
+  analyzer:
+  test:

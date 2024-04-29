@@ -1,4 +1,4 @@
-name: jscompier
+name: jscompie
 description: Dart to JavaScript compiler adding esm import and node compatible javascript code generation.
 version: 1.0.0
 
